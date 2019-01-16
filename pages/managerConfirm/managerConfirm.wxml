@@ -5,7 +5,7 @@
     <text class="tipstitle">
         温馨提示：\n
     </text>
-        <text class="tipsContent">请到华电操场失物招领处，并联系负责人出示\n相关证件。审核通过后由负责人输入确认码，\n确认招领。</text>
+        <text class="tipsContent">请到图书馆咨询处，并联系负责人出示\n相关证件。审核通过后由负责人输入确认码，\n确认招领。</text>
     </view>
       <!--管理员输入确认码：规定一个密码串如123456-->
     <view class="confirmPart">

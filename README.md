@@ -1,5 +1,5 @@
-# HDLF
-小程序华电失物招领，是以leancloud为后端的一个简单的失物招领应用。
+# RWLF
+小程序软微失物招领，是以leancloud为后端的一个简单的失物招领应用。
 
 # 基本功能
 
@@ -7,7 +7,7 @@
 
 涉及到leadcloud后台的搭建，数据库操作，页面布局等。
 
-微信小程序页面搜索：HDLF 可找到并使用
+微信小程序页面搜索：RWLF 可找到并使用
 
 # 目录结构
 
@@ -24,5 +24,3 @@ leancloud网址：https://leancloud.cn/
 小程序中使用leancloud:https://leancloud.cn/docs/weapp.html
 
 小程序注册微信官方教程：https://mp.weixin.qq.com/debug/wxadoc/dev/
-
-小程序开发教程：网上教程很多，放一个知乎的高赞回答：https://www.zhihu.com/question/50907897
